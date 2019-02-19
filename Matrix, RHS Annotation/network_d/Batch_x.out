@@ -1,0 +1,10 @@
+Here are the batch X:
+3.087638
+2.986419
+0.981486
+Here are the Average X of replications:
+3.087621
+2.986524
+0.981464
+Batch_x - Inc. Value 0.95 CI: [2.084705 , 2.105657] 
+Incumb_avg - Inc. Value 0.95 CI: [2.084650 , 2.105602] 

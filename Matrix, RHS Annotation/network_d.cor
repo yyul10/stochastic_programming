@@ -1,0 +1,69 @@
+* Source:     Pyomo MPS Writer
+* Format:     Free MPS
+*
+NAME Scenario1
+OBJSENSE
+ MIN
+ROWS
+ N  obj
+ L  c_u_budget_
+ E  c_e_d1_
+ E  c_e_d2_
+ E  c_e_d3_
+ L  c_u_c1_
+ L  c_u_c2_
+ L  c_u_c3_
+ E  c_e_ONE_VAR_CONSTANT
+COLUMNS
+     x1 c_u_budget_ 1
+     x1 c_u_c1_ -1
+     x2 c_u_budget_ 1
+     x2 c_u_c2_ -1
+     x3 c_u_budget_ 4
+     x3 c_u_c3_ -1
+     f11 c_e_d1_ 1
+     f11 c_u_c1_ 1
+     f12 c_e_d1_ 1
+     f12 c_u_c2_ 1
+     f12 c_u_c3_ 1
+     f21 c_e_d2_ 1
+     f21 c_u_c2_ 1
+     f22 c_e_d2_ 1
+     f22 c_u_c1_ 1
+     f22 c_u_c3_ 1
+     f31 c_e_d3_ 1
+     f31 c_u_c3_ 1
+     f32 c_e_d3_ 1
+     f32 c_u_c1_ 1
+     f32 c_u_c2_ 1
+     s1 obj 1
+     s1 c_e_d1_ 1
+     s2 obj 1
+     s2 c_e_d2_ 1
+     s3 obj 1
+     s3 c_e_d3_ 1
+     ONE_VAR_CONSTANT obj 0
+     ONE_VAR_CONSTANT c_e_ONE_VAR_CONSTANT 1
+RHS
+     RHS c_u_budget_ 10
+     RHS c_e_d1_ 0
+     RHS c_e_d2_ 0
+     RHS c_e_d3_ 0
+     RHS c_u_c1_ 0
+     RHS c_u_c2_ 0
+     RHS c_u_c3_ 0
+     RHS c_e_ONE_VAR_CONSTANT 1
+BOUNDS
+ LO BOUND x1 0
+ LO BOUND x2 0
+ LO BOUND x3 0
+ LO BOUND f11 0
+ LO BOUND f12 0
+ LO BOUND f21 0
+ LO BOUND f22 0
+ LO BOUND f31 0
+ LO BOUND f32 0
+ LO BOUND s1 0
+ LO BOUND s2 0
+ LO BOUND s3 0
+ENDATA

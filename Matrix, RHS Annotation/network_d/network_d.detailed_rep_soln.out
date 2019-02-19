@@ -1,0 +1,66 @@
+Problem:                                network_d
+First Stage Rows:                       2
+First Stage Columns:                    3
+First Stage Non-zeros:                  3
+Replication No. 0
+Status:                                 REPLICATION SOLUTION
+Total Objective Function Upper Bound:   
+Total Objective Function Lower Bound:   1.962329
+
+First Stage Solutions:
+   No.   Row name   Activity      Lower bound   Upper bound   Dual          Dual STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     0 obj           0.000000e+00 
+     1 c_u_budget_   1.000000e+01                1.000000e+01 -1.741866e-01 
+
+   No. Column name  Activity      Lower bound   Upper bound   Reduced Cost  RC STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     1 x1            3.000000e+00  0.000000e+00               0.000000e+00 
+     2 x2            3.000000e+00  0.000000e+00               0.000000e+00 
+     3 x3            1.000000e+00  0.000000e+00               0.000000e+00 
+
+
+Problem:                                network_d
+First Stage Rows:                       2
+First Stage Columns:                    3
+First Stage Non-zeros:                  3
+Replication No. 1
+Status:                                 REPLICATION SOLUTION
+Total Objective Function Upper Bound:   
+Total Objective Function Lower Bound:   1.686792
+
+First Stage Solutions:
+   No.   Row name   Activity      Lower bound   Upper bound   Dual          Dual STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     0 obj           8.259051e-03 
+     1 c_u_budget_   1.000000e+01                1.000000e+01 -1.804805e-01 
+
+   No. Column name  Activity      Lower bound   Upper bound   Reduced Cost  RC STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     1 x1            3.000000e+00  0.000000e+00               0.000000e+00 
+     2 x2            3.000000e+00  0.000000e+00               0.000000e+00 
+     3 x3            1.000000e+00  0.000000e+00               0.000000e+00 
+
+
+Problem:                                network_d
+First Stage Rows:                       2
+First Stage Columns:                    3
+First Stage Non-zeros:                  3
+Replication No. 2
+Status:                                 REPLICATION SOLUTION
+Total Objective Function Upper Bound:   
+Total Objective Function Lower Bound:   1.760456
+
+First Stage Solutions:
+   No.   Row name   Activity      Lower bound   Upper bound   Dual          Dual STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     0 obj           0.000000e+00 
+     1 c_u_budget_   1.000000e+01                1.000000e+01 -1.765759e-01 
+
+   No. Column name  Activity      Lower bound   Upper bound   Reduced Cost  RC STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     1 x1            3.000000e+00  0.000000e+00               0.000000e+00 
+     2 x2            3.000000e+00  0.000000e+00               0.000000e+00 
+     3 x3            1.000000e+00  0.000000e+00               0.000000e+00 
+
+

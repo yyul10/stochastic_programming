@@ -1,0 +1,5 @@
+TIME network
+PERIODS IMPLICIT
+    x1 obj TIME1
+    f11 c_e_d1_ TIME2
+ENDATA

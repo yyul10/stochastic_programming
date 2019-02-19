@@ -1,0 +1,18 @@
+
+
+ r = 0.200000 tau = 2 epsilon = 0.001000  
+Iterations: 292   Subproblems 434 
+SD Est. Inc. Value: 1.962329 
+ total time = 0.810445 
+
+
+ r = 0.200000 tau = 2 epsilon = 0.001000  
+Iterations: 265   Subproblems 396 
+SD Est. Inc. Value: 1.686792 
+ total time = 0.747003 
+
+
+ r = 0.200000 tau = 2 epsilon = 0.001000  
+Iterations: 263   Subproblems 390 
+SD Est. Inc. Value: 1.760456 
+ total time = 0.757888 

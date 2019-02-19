@@ -1,0 +1,21 @@
+STOCH retail
+INDEP         DISCRETE
+    RHS     	c_e_x15_	0	       0.05
+    RHS     	c_e_x15_	1	       0.2
+    RHS     	c_e_x15_	2	       0.5
+    RHS     	c_e_x15_	3	       0.2
+    RHS     	c_e_x15_	4	       0.05
+    RHS     	c_e_x16_	0	       0.05
+    RHS     	c_e_x16_	1	       0.2
+    RHS     	c_e_x16_	2	       0.5
+    RHS     	c_e_x16_	3	       0.2
+    RHS     	c_e_x16_	4	       0.05
+    RHS     	c_e_x17_	0	       0.1
+    RHS     	c_e_x17_	1	       0.4
+    RHS     	c_e_x17_	2	       0.4
+    RHS     	c_e_x17_	3	       0.1 
+    RHS         c_u_x18_	1	       0.7
+    RHS         c_u_x18_	0	       0.3
+    RHS         c_u_x19_	1	       0.7
+    RHS         c_u_x19_	0	       0.3
+ENDATA

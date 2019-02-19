@@ -1,0 +1,23 @@
+Problem:                                network
+First Stage Rows:                       2
+First Stage Columns:                    3
+First Stage Non-zeros:                  3
+Mean solution is recommended for this instance.
+Number of replications:                 3
+Status:                                 MEAN SOLUTION
+Total Objective Function Upper Bound:   0.000,[0.000000,0.000000],half-width:0.000, stdev:0.000
+Total Objective Function Lower Bound:   0.000,[0.000000,0.000000],half-width:0.000, stdev:0.000
+
+First Stage Solutions:
+   No.   Row name   Activity      Lower bound   Upper bound   Dual          Dual STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     0 x13           0.000000e+00 
+     1 c_u_x14_      1.000000e+01                1.000000e+01  0.000000e+00  0.000000e+00 
+
+   No. Column name  Activity      Lower bound   Upper bound   Reduced Cost  RC STDEV
+------ ------------ ------------- ------------- ------------- ------------- -------------
+     1 x1            1.005366e+00  0.000000e+00  2.170000e+02  0.000000e+00  0.000000e+00 
+     2 x2            1.006754e+00  0.000000e+00  2.170000e+02  0.000000e+00  0.000000e+00 
+     3 x3            1.996970e+00  0.000000e+00  2.170000e+02  0.000000e+00  0.000000e+00 
+
+
