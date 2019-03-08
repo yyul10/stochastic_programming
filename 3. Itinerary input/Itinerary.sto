@@ -1,0 +1,1461 @@
+STOCH Itinerary
+BLOCKS DISCRETE REPLACE
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    25
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    50
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    15
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    30
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    100
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    200
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    50
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    100
+    RHS    c_u_d51_    240
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    80
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    160
+ BL BLOCK1 PERIOD2 0.00411522633744856
+    RHS    c_u_d11_    75
+    RHS    c_u_d21_    45
+    RHS    c_u_d31_    300
+    RHS    c_u_d41_    150
+    RHS    c_u_d51_    240
+ENDATA
