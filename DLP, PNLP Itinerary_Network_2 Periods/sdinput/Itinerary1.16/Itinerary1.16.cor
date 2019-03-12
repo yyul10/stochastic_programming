@@ -1,0 +1,101 @@
+* Source:     Pyomo MPS Writer
+* Format:     Free MPS
+*
+NAME Scenario1
+OBJSENSE
+ MIN
+ROWS
+ N  obj
+ L  c_u_c1_
+ L  c_u_c2_
+ L  c_u_c3_
+ L  c_u_c4_
+ L  c_u_c5_
+ L  c_u_c6_
+ L  c_u_d11_
+ L  c_u_d12_
+ L  c_u_d21_
+ L  c_u_d22_
+ L  c_u_d31_
+ L  c_u_d32_
+ L  c_u_d41_
+ L  c_u_d42_
+ L  c_u_d51_
+ L  c_u_d52_
+ E  c_e_ONE_VAR_CONSTANT
+COLUMNS
+     x1 c_u_c2_ 1
+     x1 c_u_c3_ 1
+     x1 c_u_c6_ 1
+     x1 c_u_d12_ -1
+     x2 c_u_c1_ 1
+     x2 c_u_c3_ 1
+     x2 c_u_c4_ 1
+     x2 c_u_d22_ -1
+     x3 c_u_c2_ 1
+     x3 c_u_c3_ 1
+     x3 c_u_c6_ 1
+     x3 c_u_d32_ -1
+     x4 c_u_c1_ 1
+     x4 c_u_c3_ 1
+     x4 c_u_c4_ 1
+     x4 c_u_d42_ -1
+     x5 c_u_c3_ 1
+     x5 c_u_c5_ 1
+     x5 c_u_d52_ -1
+     t1 obj -238
+     t1 c_u_d11_ 1
+     t1 c_u_d12_ 1
+     t2 obj -229
+     t2 c_u_d21_ 1
+     t2 c_u_d22_ 1
+     t3 obj -202
+     t3 c_u_d31_ 1
+     t3 c_u_d32_ 1
+     t4 obj -220
+     t4 c_u_d41_ 1
+     t4 c_u_d42_ 1
+     t5 c_u_d51_ 1
+     t5 c_u_d52_ 1
+     ONE_VAR_CONSTANT obj 0
+     ONE_VAR_CONSTANT c_e_ONE_VAR_CONSTANT 1
+RHS
+     RHS c_u_c1_ 100
+     RHS c_u_c2_ 100
+     RHS c_u_c3_ 300
+     RHS c_u_c4_ 100
+     RHS c_u_c5_ 100
+     RHS c_u_c6_ 100
+     RHS c_u_d11_ 45
+     RHS c_u_d12_ 0
+     RHS c_u_d21_ 27
+     RHS c_u_d22_ 0
+     RHS c_u_d31_ 89
+     RHS c_u_d32_ 0
+     RHS c_u_d41_ 67
+     RHS c_u_d42_ 0
+     RHS c_u_d51_ 144
+     RHS c_u_d52_ 0
+     RHS c_e_ONE_VAR_CONSTANT 1
+BOUNDS
+ LI BOUND x1 0
+ UI BOUND x1 10E20
+ LI BOUND x2 0
+ UI BOUND x2 10E20
+ LI BOUND x3 0
+ UI BOUND x3 10E20
+ LI BOUND x4 0
+ UI BOUND x4 10E20
+ LI BOUND x5 0
+ UI BOUND x5 10E20
+ LI BOUND t1 0
+ UI BOUND t1 10E20
+ LI BOUND t2 0
+ UI BOUND t2 10E20
+ LI BOUND t3 0
+ UI BOUND t3 10E20
+ LI BOUND t4 0
+ UI BOUND t4 10E20
+ LI BOUND t5 0
+ UI BOUND t5 10E20
+ENDATA

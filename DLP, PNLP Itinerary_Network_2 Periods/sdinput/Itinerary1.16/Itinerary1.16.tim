@@ -1,0 +1,5 @@
+TIME Itinerary1.16
+PERIODS IMPLICIT
+    x1 obj TIME1
+    t1 c_u_d11_ TIME2
+ENDATA
